@@ -1,2 +1,0 @@
-# credit-score-demo
-Demo
